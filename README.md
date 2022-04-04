@@ -11,7 +11,4 @@ https://medium.com/@riccardoruocco/how-to-integrate-a-uikit-project-with-swiftui
 
 
 ![Name](https://badgen.net/badge/RiccardoFrancescoRuocco/WorkingTogetherIsEasy/green?icon=github)
-![Version](https://badgen.net/badge/Version/1.0.0/green?icon=github)
-
-
 ![XcodeVersion](https://badgen.net/badge/XcodeVersion/13.0/green/?icon=apple)
