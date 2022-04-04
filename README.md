@@ -9,4 +9,4 @@ article available on Medium:
 https://medium.com/@riccardoruocco/how-to-integrate-a-uikit-project-with-swiftui-cb165ea427d6
 
 
-https://badgen.net/badge/:subject/:status/:color?icon=github
+[![Build Status]https://badgen.net/badge/:subject/:status/:color?icon=github
