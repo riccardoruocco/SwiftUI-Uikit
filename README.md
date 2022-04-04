@@ -7,6 +7,7 @@ First I show how to use a SwiftUI view directly in the storyboard file and then 
 
 ![Name](https://badgen.net/badge/RiccardoFrancescoRuocco/WorkingTogetherIsEasy/green?icon=github)
 ![XcodeVersion](https://badgen.net/badge/XcodeVersion/13.0/green/?icon=apple)
+![Swift](https://badgen.net/badge/SwiftVersion/5.5/red/?icon=apple)
 
 
 Article available on Medium: 
