@@ -14,6 +14,6 @@ https://medium.com/@riccardoruocco/how-to-integrate-a-uikit-project-with-swiftui
 
 [![Riccardo - badge-generator](https://img.shields.io/static/v1?label=MichaelCurrin&message=badge-generator&color=blue&logo=github)](https://github.com/MichaelCurrin/badge-generator "Go to GitHub repo")
 
-![Riccardo - badge-generator](https://badgen.net/badge/RiccardoFrancescoRuocco/:WorkingTogetherIsEasy/red?icon=github)
+![Riccardo - badge-generator](https://badgen.net/badge/RiccardoFrancescoRuocco/WorkingTogetherIsEasy/red?icon=github)
 
 
