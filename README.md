@@ -1,6 +1,6 @@
 # Working together is easy - How to integrate a UIKit project with SwiftUI
 
-This folder contains the example used in the article "how to integrate a UIKit project with sSiftUI". <br />
+This folder contains the example used in the article "how to integrate a UIKit project with SwiftUI". <br />
 In the article I describe how to integrate SwiftUI into a UIKit project in a quick and easy way. <br />
 First I show how to use a SwiftUI view directly in the storyboard file and then how to pass data from the UIKit layer to the SwiftUI layer and vice versa.
 
