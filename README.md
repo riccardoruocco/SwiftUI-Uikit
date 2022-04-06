@@ -15,5 +15,5 @@ First I show how to use a SwiftUI view directly in the storyboard file and then 
 
 <br />
 
-Article available on Medium: 
+Article available on Medium: <br />
 https://medium.com/@riccardoruocco/how-to-integrate-a-uikit-project-with-swiftui-cb165ea427d6
